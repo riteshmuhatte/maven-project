@@ -1,5 +1,4 @@
  /**
-  * @param someone on the name of a person
-  * @return greeting strin
+  * this is a package name
   */
   package com.example;
